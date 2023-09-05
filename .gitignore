@@ -529,4 +529,8 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+# Custom directories
+source/
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/laravel,composer,visualstudio,visualstudiocode,virtualenv,dotenv,node
